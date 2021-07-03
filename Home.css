@@ -1,0 +1,338 @@
+html *
+{
+   font-family: Mulish !important;
+   left: 50%;
+   max-width: 100%;
+   overflow-x: hidden;
+}
+body{
+    margin: 0;
+}
+
+div {
+    width:100%;
+    margin:1%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 0;
+}
+
+ul {
+    list-style-type: none;
+    width: 80%;
+}
+
+li {
+    float: right;
+    margin-right: 10vh;
+}
+.header {
+    float: left;
+    font-size: 23px !important;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: left;
+    margin-left: 30px;
+    letter-spacing: 0em;
+    margin-right: 0;
+}
+
+.header h4{
+    margin-top: 20px;
+}
+
+.headerlogo-img {
+    width: 41px;
+    height: 41px;
+    margin-top:30%;
+}
+.div-1{
+    height: 700px
+}
+.div-2{
+    display: block;
+    margin-left: 235px;
+    width: 450;
+    height: 338;
+}
+.div-headertext {
+    font-size: 48px !important;
+    font-style: normal;
+    font-weight: 700;
+    width: 427px;
+    height: 112;
+    margin-top: 100px;
+    overflow-y: hidden;
+    line-height: 56px;
+    letter-spacing: 0em;
+    justify-content: left;
+    text-align: left;
+}
+
+.div-subtext {
+    font-size: 21px !important;
+    font-style: normal;
+    font-weight: 300;
+    color: #7D7987 !important;
+    line-height: 32px;
+    letter-spacing: 0em;
+    justify-content: center;
+    justify-content: left;
+    text-align: left;
+    width: 445px;
+}
+
+.div-button {
+    height: 56px;
+    width: 200px;
+    left: 190px;
+    top: 564px;
+    border-radius: 55px;
+    background: #458FF6;
+    text-align: left;
+    color: white !important;
+    font-size: 18px !important;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0em;
+}
+.div-img {
+    position: absolute;
+    width: 693px;
+    height: 598px; 
+}
+.div-3{
+    height: 1300px;
+}
+.services {
+    display: block;
+}
+.div-4{
+    display: block;
+}
+.div-4 a{
+    font-size: 36px !important;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: 0em;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 10xp;
+}
+.div-4 hr{
+    height: 2px;
+    width: 56px;
+    left: 282px;
+    top: 3186px;
+    border-radius: 6px;
+    background-color: black;
+    margin:auto;
+    margin-top: 26px;
+}
+.div-4 p{
+    font-size: 18px !important;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 30px;
+    letter-spacing: 0em;
+    width: 952px;
+    color: #7D7987 !important;
+    margin: auto;
+    margin-top: 26px;
+    
+}
+.service-gride{
+    margin: auto; 
+    margin-top: 80px;
+    width: 1120;
+    height: 745;
+    display: block;
+}
+.box-service{
+    display: block;
+    width: 310px;
+    height: 314px;
+    background: #FFFFFF;
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+    border-radius: 20px;
+    margin: 17px 18.5px ;
+    padding: 40px;
+    text-align: left;
+    
+}
+.box-service img{
+    height: 90px;
+    width: 91.96px;
+    margin-top: 24px;
+}
+
+.box-service h5 {
+    font-size: 24px !important;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 1px;
+}
+
+.box-service p {
+    font-size: 16px !important;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px !important;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #7D7987 !important;
+    mix-blend-mode: normal;
+    margin-top: 1px;
+    margin-bottom: 7px;
+    width: 266px;
+}
+.services-button{
+    height: 56px;
+    width: 200px;
+    left: 280px;
+    border-radius: 55px;
+    border: 2.4px solid #458FF6;
+    font-size: 18px !important;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #458FF6 !important;
+    margin: auto;
+    margin-top: 72px;
+}
+.div-5{
+    height: 800px
+}
+.div-6{
+    display: block;
+    margin-left: 160px;
+}
+.div5-img {
+    width: 693px;
+    height: 598px; 
+}
+.div-6 a{
+    font-size: 36px !important;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: 0em;
+    justify-content: left;
+    text-align: left;
+    width: 427px;
+    height: 112px;
+    margin-top: 40px;
+    margin-left: 0px;
+}
+.div-6 hr{
+    height: 2px;
+    width: 56px;
+    left: 282px;
+    top: 3186px;
+    border-radius: 6px;
+    background-color: black;
+    margin-left: 2%;
+    margin-top: 26px;
+    margin-bottom: 13px;
+}
+.div-6 p{
+    font-size: 18px !important;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 30px;
+    letter-spacing: 0em;
+    justify-content: center;
+    justify-content: left;
+    text-align: left;
+    width: 450px;
+    color: #7D7987 !important; 
+}
+.div5-button{
+    height: 56px;
+    width: 200px;
+    left: 280px;
+    top: 3379px;
+    border-radius: 55px;
+    border: 2.4px solid #458FF6;
+    font-size: 18px !important;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #458FF6 !important;
+}
+.div-7{
+    height: 800px
+}
+.div-8{
+    display: block;
+    margin-left: 200px;
+}
+.div7-img {
+    width: 693px;
+    height: 598px; 
+}
+.div-8 a{
+    font-size: 36px !important;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: 0em;
+    justify-content: left;
+    text-align: left;
+    width: 427px;
+    height: 112px;
+    margin-top: 40px;
+    margin-left: 0px;
+}
+.div-8 hr{
+    height: 2px;
+    width: 56px;
+    left: 282px;
+    top: 3186px;
+    border-radius: 6px;
+    background-color: black;
+    margin-left: 2%;
+    margin-top: 26px;
+    margin-bottom: 13px;
+}
+.div-8 p{
+    font-size: 18px !important;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 30px;
+    letter-spacing: 0em;
+    justify-content: center;
+    justify-content: left;
+    text-align: left;
+    width: 450px;
+    color: #7D7987 !important; 
+}
+.div7-button{
+    height: 56px;
+    width: 200px;
+    left: 280px;
+    top: 3379px;
+    border-radius: 55px;
+    border: 2.4px solid #458FF6;
+    font-size: 18px !important;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #458FF6 !important;
+}
